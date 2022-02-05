@@ -1,4 +1,4 @@
-const MINUS = document.getElementById('minimze')
+const MINUS = document.getElementById('minimize')
 const CLOSE_APP = document.getElementById('close-app')
 
 MINUS.addEventListener('click', minimize)
